@@ -20,7 +20,15 @@ def get_datalake_dirs():
 
 
 def create_datalake(dirs):
-    """Creates datalake in the main directory"""
+    """Creates datalake in the main directory.
+
+    Args:
+        dirs (list): List of directories to create
+
+    Return:
+        None
+
+    """
 
     for path in dirs:
         if not os.path.exists(path):
