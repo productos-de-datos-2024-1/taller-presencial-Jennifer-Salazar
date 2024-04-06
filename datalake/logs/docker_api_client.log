@@ -1,0 +1,53 @@
+2024-04-06 16:43:07,459:INFO:Starting the application
+2024-04-06 16:43:07,479:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.3:5000
+2024-04-06 16:43:07,480:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 16:43:07,481:INFO: * Restarting with stat
+2024-04-06 16:43:07,837:INFO:Starting the application
+2024-04-06 16:43:07,874:WARNING: * Debugger is active!
+2024-04-06 16:43:07,875:INFO: * Debugger PIN: 141-103-374
+2024-04-06 16:45:28,257:INFO:172.18.0.1 - - [06/Apr/2024 16:45:28] "GET / HTTP/1.1" 200 -
+2024-04-06 16:49:38,506:INFO:----------------------------------------
+2024-04-06 16:49:38,507:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 16:49:44,370:INFO:172.18.0.1 - - [06/Apr/2024 16:49:44] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-06 16:49:44,435:INFO:172.18.0.1 - - [06/Apr/2024 16:49:44] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-06 16:49:44,494:INFO:172.18.0.1 - - [06/Apr/2024 16:49:44] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-06 16:49:45,005:INFO:172.18.0.1 - - [06/Apr/2024 16:49:45] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 16:49:45,021:INFO:172.18.0.1 - - [06/Apr/2024 16:49:45] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 16:49:51,174:INFO:----------------------------------------
+2024-04-06 16:49:51,175:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 16:49:56,238:INFO:172.18.0.1 - - [06/Apr/2024 16:49:56] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-06 16:49:56,258:INFO:172.18.0.1 - - [06/Apr/2024 16:49:56] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-06 16:49:56,260:INFO:172.18.0.1 - - [06/Apr/2024 16:49:56] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-06 16:49:56,280:INFO:172.18.0.1 - - [06/Apr/2024 16:49:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 16:49:56,297:INFO:172.18.0.1 - - [06/Apr/2024 16:49:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 16:50:06,393:INFO:172.18.0.1 - - [06/Apr/2024 16:50:06] "GET / HTTP/1.1" 200 -
+2024-04-06 16:50:09,249:INFO:----------------------------------------
+2024-04-06 16:50:09,250:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 16:50:14,288:INFO:172.18.0.1 - - [06/Apr/2024 16:50:14] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-06 16:50:14,302:INFO:172.18.0.1 - - [06/Apr/2024 16:50:14] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-06 16:50:14,305:INFO:172.18.0.1 - - [06/Apr/2024 16:50:14] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-06 16:50:14,316:INFO:172.18.0.1 - - [06/Apr/2024 16:50:14] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 16:50:14,331:INFO:172.18.0.1 - - [06/Apr/2024 16:50:14] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 16:52:55,637:INFO:----------------------------------------
+2024-04-06 16:52:55,638:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 16:52:55,657:INFO:Prediction: 155849.9
+2024-04-06 16:52:55,658:INFO:172.18.0.1 - - [06/Apr/2024 16:52:55] "POST / HTTP/1.1" 200 -
+2024-04-06 17:06:01,864:INFO:----------------------------------------
+2024-04-06 17:06:01,865:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 2.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 17:06:01,884:INFO:Prediction: 171805.74
+2024-04-06 17:06:01,884:INFO:172.18.0.1 - - [06/Apr/2024 17:06:01] "POST / HTTP/1.1" 200 -
+2024-04-06 17:06:04,410:INFO:----------------------------------------
+2024-04-06 17:06:04,411:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 17:06:04,430:INFO:Prediction: 155849.9
+2024-04-06 17:06:04,431:INFO:172.18.0.1 - - [06/Apr/2024 17:06:04] "POST / HTTP/1.1" 200 -
+2024-04-06 17:06:10,592:INFO:----------------------------------------
+2024-04-06 17:06:10,593:INFO:User values: {'bedrooms': 4.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 17:06:10,612:INFO:Prediction: 86968.64
+2024-04-06 17:06:10,613:INFO:172.18.0.1 - - [06/Apr/2024 17:06:10] "POST / HTTP/1.1" 200 -
+2024-04-06 17:06:13,652:INFO:----------------------------------------
+2024-04-06 17:06:13,653:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 17:06:13,668:INFO:Prediction: 155849.9
+2024-04-06 17:06:13,668:INFO:172.18.0.1 - - [06/Apr/2024 17:06:13] "POST / HTTP/1.1" 200 -

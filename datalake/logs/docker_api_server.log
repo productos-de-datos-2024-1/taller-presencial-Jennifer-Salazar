@@ -1,0 +1,42 @@
+2024-04-06 16:41:03,387:INFO:Starting API server
+2024-04-06 16:41:03,478:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-04-06 16:41:03,479:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 16:41:03,482:INFO: * Restarting with stat
+2024-04-06 16:41:04,253:INFO:Starting API server
+2024-04-06 16:41:04,258:WARNING: * Debugger is active!
+2024-04-06 16:41:04,326:INFO: * Debugger PIN: 233-580-481
+2024-04-06 16:49:39,083:INFO:----------------------------------------
+2024-04-06 16:49:39,085:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 16:49:51,208:INFO:----------------------------------------
+2024-04-06 16:49:51,208:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 16:50:09,264:INFO:----------------------------------------
+2024-04-06 16:50:09,265:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 16:50:22,311:INFO:Prediction: [155849.90294016]
+2024-04-06 16:50:22,331:INFO:Prediction: [155849.90294016]
+2024-04-06 16:50:22,331:INFO:Prediction: [155849.90294016]
+2024-04-06 16:50:22,332:INFO:172.18.0.3 - - [06/Apr/2024 16:50:22] "POST / HTTP/1.1" 200 -
+2024-04-06 16:50:22,334:INFO:172.18.0.3 - - [06/Apr/2024 16:50:22] "POST / HTTP/1.1" 200 -
+2024-04-06 16:50:22,337:INFO:172.18.0.3 - - [06/Apr/2024 16:50:22] "POST / HTTP/1.1" 200 -
+2024-04-06 16:52:55,646:INFO:----------------------------------------
+2024-04-06 16:52:55,647:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 16:52:55,655:INFO:Prediction: [155849.90294016]
+2024-04-06 16:52:55,656:INFO:172.18.0.3 - - [06/Apr/2024 16:52:55] "POST / HTTP/1.1" 200 -
+2024-04-06 17:06:01,872:INFO:----------------------------------------
+2024-04-06 17:06:01,873:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 17:06:01,882:INFO:Prediction: [171805.74212195]
+2024-04-06 17:06:01,882:INFO:172.18.0.3 - - [06/Apr/2024 17:06:01] "POST / HTTP/1.1" 200 -
+2024-04-06 17:06:04,420:INFO:----------------------------------------
+2024-04-06 17:06:04,420:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 17:06:04,428:INFO:Prediction: [155849.90294016]
+2024-04-06 17:06:04,429:INFO:172.18.0.3 - - [06/Apr/2024 17:06:04] "POST / HTTP/1.1" 200 -
+2024-04-06 17:06:10,600:INFO:----------------------------------------
+2024-04-06 17:06:10,600:INFO:User values: {'bedrooms': [4], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 17:06:10,610:INFO:Prediction: [86968.64456904]
+2024-04-06 17:06:10,611:INFO:172.18.0.3 - - [06/Apr/2024 17:06:10] "POST / HTTP/1.1" 200 -
+2024-04-06 17:06:13,658:INFO:----------------------------------------
+2024-04-06 17:06:13,659:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 17:06:13,666:INFO:Prediction: [155849.90294016]
+2024-04-06 17:06:13,666:INFO:172.18.0.3 - - [06/Apr/2024 17:06:13] "POST / HTTP/1.1" 200 -
